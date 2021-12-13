@@ -1,1 +1,0 @@
-# test-rh-project
